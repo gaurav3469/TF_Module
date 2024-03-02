@@ -22,3 +22,6 @@ provider "aws" {
 #   subscription_id = "b2aec48f-6dad-4d57-ad25-dad521fe74a4"
 # }
 
+#neew hangees in rhe provider file
+
+##secind line added
